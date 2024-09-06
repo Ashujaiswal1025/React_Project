@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Backpack",
+    "price": 1998,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "T-Shirts",
+    "price": 1859,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing...",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Jacket",
+    "price": 4648,
+    "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping...",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Slim Fit",
+    "price": 1329,
+    "description": "The color could be slightly different between on the screen and in practice...",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "Bracelet",
+    "price": 5799,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl...",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "Micropave",
+    "price": 13944,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days...",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "Ring",
+    "price": 9899,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her...",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  {
+    "id": 8,
+    "title": "Earrings",
+    "price": 37039,
+    "description": "Resplendent Easa Diamond Earrings for her, in Yellow, White and Rose Gold, priced under 40K.",
+    "category": "jewelery",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVPOFArLiD-aAMwWqnMhPRgP4a1af1WRrpRg&s",
+    "rating": {
+      "rate": 4.3,
+      "count": 100
+    }
+  },
+  {
+    "id": 9,
+    "title": "Hard Drive",
+    "price": 5312,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity...",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  },
+  {
+    "id": 10,
+    "title": "SSD 1TB",
+    "price": 9047,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response...",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 11,
+    "title": "SSD 256GB",
+    "price": 9047,
+    "description": "3D NAND flash are applied to deliver high transfer speeds...",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 12,
+    "title": "Gaming Drive",
+    "price": 9462,
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup...",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 13,
+    "title": "Monitor",
+    "price": 4989,
+    "description": "21.5 inches Full HD (1920 x 1080) widescreen IPS display...",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
+  },
+  {
+    "id": 14,
+    "title": "Gaming Monitor",
+    "price": 52999,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR...",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 3.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 15,
+    "title": "Jacket",
+    "price": 4720,
+    "description": "Note: The Jackets is US standard size, Please choose size as your usual wear...",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
+  },
+  {
+    "id": 16,
+    "title": "Biker Jacket",
+    "price": 2489,
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER)...",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 340
+    }
+  },
+  {
+    "id": 17,
+    "title": "Raincoat",
+    "price": 3299,
+    "description": "Lightweight perfect for trip or casual wear...",
+    "category": "women's clothing",
+    "image": "data:image/jpeg;base64,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",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 18,
+    "title": "Top",
+    "price": 819,
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach...",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 1.8,
+      "count": 130
+    }
+  },
+  {
+    "id": 19,
+    "title": "Striped Dress",
+    "price": 2349,
+    "description": "Please note that the size chart is in US sizing. The fabric is soft and comfortable...",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
+  },
+  {
+    "id": 20,
+    "title": "T-Shirts",
+    "price": 549,
+    "description": "95% Cotton, 5% Spandex, Imported, Pull On closure...",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
+  }
+]
